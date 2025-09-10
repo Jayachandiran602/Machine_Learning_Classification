@@ -1,4 +1,4 @@
-#In this case I go with MPLRegressor because the output was different we only choose classifier if the output is predictable as same as classifier gives continuous output on the other hand regression will not generate like this.
+
 Firstly, we set the range of x and y axis then we test as same as train the values then we create two helper functions, both of which will need to predict class labels.
 Factor the code into one function rather than duplicating itthen the function will display selected scores(f1-score macro average, accuracy)
 Then implementMLPRegresson and learning rate to get r2 and mse resuts then set a range value to tain and test the data we will get a good learning rate grap but in multiclassifier the output will show the low accuracy rate and the size of the array will show incorect
